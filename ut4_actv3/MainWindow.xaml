@@ -163,7 +163,7 @@
                             <DoubleAnimation
                                 Storyboard.TargetProperty="FontSize"
                                 To="45"
-                                Duration="0:0:2" />
+                                Duration="0:0:2"/>
                         </Storyboard>
                     </BeginStoryboard>
                 </EventTrigger>
